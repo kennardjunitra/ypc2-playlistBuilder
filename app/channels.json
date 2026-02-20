@@ -41,6 +41,16 @@
     "search_filter": "Tennis",
     "min_duration_minutes": 3
   },
+  "doha": {
+    "channel_ids": ["UCbcxFkd6B9xUU54InHv4Tig"],
+    "search_filter": "Highlights",
+    "min_duration_minutes": 3
+  },
+  "afcon": {
+    "channel_ids": ["UCYtNSrfGdXooZYu_hkq18_w"],
+    "search_filter": "AFCON 25",
+    "min_duration_minutes": 8
+  },
   "afc": {
     "channel_ids": ["UCXTRFt1vLvZpahQtiKJjLaQ"],
     "search_filter": "Highlights",
